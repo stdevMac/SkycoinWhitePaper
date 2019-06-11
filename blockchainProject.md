@@ -93,13 +93,34 @@ Las transacciones en Skycoin no incluyen sobrecargo. El sobrecargo en las transa
 
 ## 9 Skycoin CX vs Ethereum  
 
-Cx|Solidity
- --- | ---
-Completo | Funcionalidad limitada
-Amigable para los programadores(Basado en Golang) | Desconocido para la mayoría de los programadores
-Diseñado para juegos, aplicaciones y contratos inteligentes | Solo diseñado para contratos inteligentes
-Incluye motores gráficos(CXFX) | No tiene motores gráficos
-Compilado e Interpretado | Compilado
-Ilimitado número de transacciones por segundo | Máximo 15 transacciones por segundo
-No hay sobrecargo en las transacciones | ETH cargo por las transacciones
-Cada juego/aplicación tiene su propio blockchain | Todos los juegos y aplicaciones comparten el mismo blockchain
++-----------------------+-----------------------------+
+|           CX          |          Solidity           |
++=======================+=============================+
+| Completo              | Funcionalidad limitada      |
++-----------------------+-----------------------------+
+| Amigable para los     | Desconocido para la         |
+| programadores(Basado  | mayoría de los              | 
+| en Golang)            | programadores               |
++-----------------------+-----------------------------+
+| Diseñado para juegos, | Solo diseñado para          |
+| aplicaciones y        | contratos inteligentes      |
+| contratos             |                             |
+| inteligentes          |                             |
++-----------------------+-----------------------------+
+| Incluye motores       | No tiene motores gráficos   |
+| gráficos(CXFX)        |                             |
++-----------------------+-----------------------------+
+| Compilado e           | Compilado                   |
+| Interpretado          |                             |
++-----------------------+-----------------------------+
+| Ilimitado número de   | Máximo 15 transacciones     |
+| transacciones por     | por segundo                 |
+| segundo               |                             |
++-----------------------+-----------------------------+
+| No hay sobrecargo en  | ETH cargo por las           |
+| las transacciones     | transacciones               |
++-----------------------+-----------------------------+
+| Cada juego/aplicación | Todos los juegos y          |
+| tiene su propio       | aplicaciones comparten el   |
+| blockchain            | mismo blockchain            |
++-----------------------+-----------------------------+
